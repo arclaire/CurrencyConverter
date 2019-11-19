@@ -2,7 +2,7 @@
 //  MyCurrencyTests.swift
 //  MyCurrencyTests
 //
-//  Created by danang sakti on 18/11/19.
+//  Created by Lucy on 18/11/19.
 //  Copyright © 2019 arclaire. All rights reserved.
 //
 
